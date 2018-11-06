@@ -8,7 +8,7 @@ The full width view has some basic javascript as well, click on the smaller imag
 
 #### Full width mockup:
 [Full](mockups/WTwide(full).pdf)  
-[Upper](mockupsp/WTwide(upper).pdf)  
+[Upper](mockups/WTwide(upper).pdf)  
 
 #### Mobile view mockup:
 [Full](mockups/WTmobile(full).pdf)  
